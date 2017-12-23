@@ -1,13 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Chapter1_BasicCodeInGitHub
+namespace ConsoleApp3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!Chapter1");
-            Console.ReadLine();
+            Console.WriteLine("hello sreeja");
         }
     }
 }
